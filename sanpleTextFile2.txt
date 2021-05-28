@@ -1,1 +1,2 @@
 archivo de prueba 2
+this is a comparation lecture changing file 2
