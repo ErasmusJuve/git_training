@@ -1,3 +1,5 @@
 archivo de prueba 1
 
 git revert commit 1
+
+cambio para comparar stagin area
