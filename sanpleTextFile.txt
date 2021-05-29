@@ -7,3 +7,4 @@ git revert commit 1
 cambio para comparar stagin area
 this is a comparation lecture
 
+This is stash lecture, change in file 1
