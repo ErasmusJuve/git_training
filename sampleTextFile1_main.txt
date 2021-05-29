@@ -1,1 +1,2 @@
 texto de archivo sample 1 en main
+This is stash lecture, change in main file
